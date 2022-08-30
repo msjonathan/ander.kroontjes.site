@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Ander Kroontjes</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Ander Kroontjes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groen kroontje met bloemetjes</title>
+      <link>https://example.org/portfolio/kroontje-1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/kroontje-1/</guid>
+      <description>something something</description>
+    </item>
+    
+    <item>
+      <title>Groen kroontje met egel en meedere cijfers</title>
+      <link>https://example.org/portfolio/kroontje-4/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/kroontje-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roos kroontje met bloemetjes</title>
+      <link>https://example.org/portfolio/kroontje-2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/kroontje-2/</guid>
+      <description>slfslzlezlze slzlzlzeln slzlzl</description>
+    </item>
+    
+    <item>
+      <title>Roos kroontje met muisjes</title>
+      <link>https://example.org/portfolio/kroontje-3/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/kroontje-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
