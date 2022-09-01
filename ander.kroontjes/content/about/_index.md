@@ -1,21 +1,29 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "Unieke kroontjes"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+#### Komt er een verjaardag aan?
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Niets zo leuk als een mooi kroontje om de kleine jarige in de kijker te zetten!
+Bij ons kan je kroontjes bestellen die uniek zijn, en die in het thema passen van jouw feestje.
 
-![This is me][1]
+#### Welke kroontjes kan je kiezen?
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Op deze site zie je welke kroontjes wij op stock hebben. Deze zijn zo goed als onmiddellijk leverbaar. Vind je niet wat je zoekt? Geen probleem! Nieuwe kroontjes maken doen wij graag! Stuur een berichtje via onze sociale media en we bekijken samen het thema en kleurcombinatie.
 
-#### Education
+Onze kroontjes komen standaard met één vast cijfer. Wil je graag eentje met verwisselbare cijfertjes, dan betaal je 2 euro extra per bijkomend cijfertje.
+Of twijfel je? Ook de kroontjes met een vast cijfertje kunnen we altijd nog aanpassen en wisselen. Gewoon even langskomen :)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+#### Hoe kies ik een kleur/thema?
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Is het verjaardagsfeestje in een thema? Houdt je kindje van auto's, unicorns, paarden, ... alles is mogelijk. Misschien heb je wel een lievelingskleur waarin je de kroon wilt? Of wil je een kroon die match bij de outfit? Dat kan!
 
-[1]: /img/about.jpg
+#### Bestellen maar!
+
+
+
+![Voorbeeld kroontje][1]
+
+
+[1]: /img/groen-bloemetjes.jpg

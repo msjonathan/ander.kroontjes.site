@@ -1,11 +1,9 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/portfolio/groen-bloemetjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Groen kroontje met bloemetjes"
+title = "Grasgroen, hemelsblauw en bloemetjes"
 weight = 0
 +++
-jjnh
-
-something something
+Op voorraad

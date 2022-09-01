@@ -14,10 +14,8 @@ googleAnalytics = ""
   description = "Zelfgemaakte kroontjes voor kleine hoofdjes"
   copyright = "&copy;2022 Ander.Kroontjes"
   sidebarAbout = [
-    "👑 Zelfgemaakte kroontjes voor kleine hoofdjes",
-    "🥳 Kies zelf je thema, kleur, leeftijd, ...",
-    "🏡 Morkhoven & Olen (BE)",
-    "🎁 Afhalen of verzenden mogelijk",
+    "Zelfgemaakte kroontjes voor kleine hoofdjes<br />Kies zelf je thema, kleur, leeftijd, ...<br />",
+    "Afhalen mogelijk in Olen, verzenden ook mogelijk",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -44,13 +42,19 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Kroontjes"
   url = "portfolio/"
   home = true
 
+
   [[params.navlinks]]
-  name = "About"
+  name = "Kroontje op maat"
   url = "about/"
+
+  
+  [[params.navlinks]]
+  name = "Categorieen"
+  url = "categories/"
 
   [params.social]
   instagram     = "https://www.instagram.com/ander.kroontjes/"

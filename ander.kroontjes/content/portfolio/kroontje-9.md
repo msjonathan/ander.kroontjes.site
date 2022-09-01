@@ -1,10 +1,11 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/roos-met-hertjes.jpg"
+image = "img/portfolio/fushia.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Oudroze met hertjes"
+title = "Fushia met hertjes"
 weight = 0
 +++
 
-Op voorraad
+Niet op voorraad
+
