@@ -47,13 +47,10 @@ googleAnalytics = ""
 
 
   [[params.navlinks]]
-  name = "Kroontje op maat"
+  name = "Info"
   url = "about/"
 
-  
-  [[params.navlinks]]
-  name = "Categorieen"
-  url = "categories/"
+
 
   [params.social]
   instagram     = "https://www.instagram.com/ander.kroontjes/"
