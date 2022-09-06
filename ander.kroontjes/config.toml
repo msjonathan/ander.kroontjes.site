@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "Zelfgemaakte kroontjes voor kleine hoofdjes"
   copyright = "&copy;2022 Ander.Kroontjes"
   sidebarAbout = [
-    "Zelfgemaakte kroontjes voor kleine hoofdjes<br />Kies zelf je thema, kleur, leeftijd, ...<br />",
-    "Afhalen mogelijk in Olen, verzenden ook mogelijk",
+    "Zelfgemaakte kroontjes voor kleine hoofdjes"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

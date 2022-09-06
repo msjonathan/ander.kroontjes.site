@@ -9,3 +9,17 @@ weight = 0
 Met verwisselbare cijfertjes
 Niet op voorraad
 
+
+
+
+
+
+
+jjhgffdd
+
+
+![Voorbeeld kroontje][1]
+
+
+[1]: /img/groen-bloemetjes.jpg
+
