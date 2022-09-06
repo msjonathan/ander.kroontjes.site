@@ -14,4 +14,4 @@ Dit kroontje heeft een grasgroene buitenkant, een bloemenpatroontje aan de binne
 Andere cijfertjes zijn perfect mogelijk.
 
 
-[1]: /img/groen-bloemetjes.jpg
+[1]: /img/portfolio/groen-bloemetjes.jpg
