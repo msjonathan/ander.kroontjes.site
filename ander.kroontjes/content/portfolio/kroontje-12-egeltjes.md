@@ -9,7 +9,7 @@ weight = 12
 <!--more-->
 ![Kroontje egeltjes][1]
 
-Dit kroontje heeft een donkergroene buitenkant en roestkleurige binnenkant, met verwisselbare cijfertjes!
+Dit kroontje heeft een donkergroene buitenkant en roestkleurige binnenkant.
 
 [1]: /img/portfolio/groen-kroontje-met-egel-meerdere-cijfers.jpg
 
