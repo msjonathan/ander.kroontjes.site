@@ -1,4 +1,4 @@
-baseurl = "https://www.anderkroontjes.net/"
+baseurl = "https://anderkroontjes.net/"
 title = "Ander Kroontjes"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "nl-be"
