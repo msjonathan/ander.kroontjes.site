@@ -18,7 +18,7 @@ Op de site zie je welke kroontjes we op voorraad hebben. Een kroontje op voorraa
 
 * Onze kroontjes komen standaard met één vast cijfer en ze kosten 20 euro.
 * Wil je graag eentje met verwisselbare cijfers, dan betaal je 2 euro extra per bijkomend cijfertje.
-* Twijfel je? Alles is aanpasbaar. Ook de kroontjes met een vast cijfertje kunnen we altijd nog aanpassen en wisselen. Gewoon even langskomen :)
+* Twijfel je? Alles is aanpasbaar. Ook de kroontjes met een vast cijfer kunnen we altijd nog aanpassen en wisselen. Gewoon even langskomen :)
 
 De kroontjes zijn vanachter verstelbaar met velcro. Lekker handig om hem op maat te zetten. De minimummaat is 42 cm, de maximummaat is 55 cm.
 

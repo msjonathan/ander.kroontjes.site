@@ -7,14 +7,14 @@ title = "Je eigen creatie"
 weight = 99
 +++
 <!--more-->
-Misschien heb je iets in je hoofd dat je niet meteen terugvindt op onze site.
+Misschien heb je iets in je hoofd en je vindt het niet meteen terug op onze site.
 * Een bepaald patroontje zoals sterretjes of bolletjes?
 * Een lievelingskleur?
 * Iets dat past bij het thema van het verjaardagsfeestje? 
-* Is de jarige fan van boerderijdiertjes, tractors, unicorns, ... ?
+* Is de jarige fan van boerderijdiertjes, panda's, unicorns, ... ?
 * Zoek je een origineel kado dat past bij het geboortekaartje? 
 
-Alles is mogelijk! Wij helpen graag mee kiezen naar de mooiste combinatie.
+Alles is mogelijk! Wij helpen graag mee zoeken naar de mooiste combinatie.
 
 
 
