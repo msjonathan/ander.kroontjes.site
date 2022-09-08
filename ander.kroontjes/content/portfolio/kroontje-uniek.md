@@ -7,7 +7,7 @@ title = "Je eigen creatie"
 weight = 99
 +++
 <!--more-->
-Misschien had je iets in je hoofd dat je niet meteen terugvindt op onze site.
+Misschien heb je iets in je hoofd dat je niet meteen terugvindt op onze site.
 * Een bepaald patroontje zoals sterretjes of bolletjes?
 * Een lievelingskleur?
 * Iets dat past bij het thema van het verjaardagsfeestje? 

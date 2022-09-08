@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Paars met bloemetjes"
 weight = 11
 +++
-Op voorraad
+*-- Op voorraad --*
 <!--more-->
 ![Kroontje paars][1]
 

@@ -8,11 +8,15 @@ weight = 2
 +++
 <!--more-->
 ![Kroontje dino][1]
-Dit kroontje heeft een lichtblauwe buitenkant met dino's in donkerblauw vanbinnen
+
+![Kroontje dino met jarige][2]
+
+Dit kroontje heeft een lichtblauwe buitenkant met schattige dino's vanbinnen.
 
 Andere cijfertjes zijn perfect mogelijk.
 
 
 [1]: /img/portfolio/blauw-dino.jpg
+[2]: /img/portfolio/alternatieven/blauw_dino_voorbeeld.jpg
 
 

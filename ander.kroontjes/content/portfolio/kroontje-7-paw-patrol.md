@@ -7,10 +7,13 @@ title = "Felblauw Paw Patrol"
 weight = 7
 +++
 <!--more-->
-![Kroontje paw patrol][1]
-Dit kroontje heeft een hemelsblauwe buitenkant met paw patrol figuurtjes vanbinnen.
+![Kroontje paw patrol met versiering][1]
+![Kroontje paw patrol][2]
+![Kroontje paw patrol met jarige][3]
 
-Andere cijfertjes zijn perfect mogelijk.
+De jarige was fan van Paw Patrol, daarom hebben wij dit kroontje gemaakt met een hemelsblauwe buitenkant en paw patrol figuurtjes vanbinnen.
 
 
 [1]: /img/portfolio/blauw-paw-patrol.jpg
+[2]: /img/portfolio/alternatieven/blauw_paw_patrol_plain.jpg
+[3]: /img/portfolio/alternatieven/paw_patrol_voorbeeld.jpg

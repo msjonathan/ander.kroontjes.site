@@ -7,10 +7,13 @@ title = "Rood met tractors"
 weight = 3
 +++
 <!--more-->
-![Kroontje dino][1]
+![Kroontje tractors][1]
+![Kroontje tractors met versiering][2]
+
 Dit kroontje heeft een rode buitenkant met tractors vanbinnen
 
 Andere cijfertjes zijn perfect mogelijk.
 
 
 [1]: /img/portfolio/rood-tractor.jpg
+[2]: /img/portfolio/alternatieven/tractors_versiering.jpg

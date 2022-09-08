@@ -8,9 +8,10 @@ weight = 6
 +++
 <!--more-->
 ![Kroontje ijsjes][1]
-Dit kroontje heeft een oudroze buitenkant met muntgroene ijsjes vanbinnen.
+![Kroontje ijsjes met jarige][2]
 
-Andere cijfertjes zijn perfect mogelijk.
+Dit kroontje heeft een oudroze buitenkant met muntgroene ijsjes vanbinnen. De mama van de jarige had ons een foto van de outfit doorgestuurd. Wij hebben dan een kroontje gemaakt dat hier heel mooi bij paste.
 
 
 [1]: /img/portfolio/roze-ijsjes.jpg
+[2]: /img/portfolio/alternatieven/oudroze_ijsjes_voorbeeld.jpg
