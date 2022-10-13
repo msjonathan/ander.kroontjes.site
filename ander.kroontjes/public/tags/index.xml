@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ander Kroontjes</title>
-    <link>https://example.org/tags/</link>
+    <link>https://anderkroontjes.net/tags/</link>
     <description>Recent content in Tags on Ander Kroontjes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-be</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-be</language><atom:link href="https://anderkroontjes.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

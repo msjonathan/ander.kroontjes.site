@@ -14,13 +14,13 @@ Bij ons kan je kroontjes bestellen die uniek zijn, voor jouw kleine spruit of oo
 
 #### Welke kroontjes zijn er?
 
-Op de site zie je welke kroontjes we op voorraad hebben. Een kroontje op voorraad kan je meteen ophalen (of laten leveren). Diegene die niet op voorraad zijn, hebben we op ongeveer één week voor je klaar. Had je nog iets heel anders in gedachte? Geen probleem! Nieuwe kroontjes maken, dat doen wij graag! Stuur een berichtje via onze sociale media en we bekijken samen het thema en kleurcombinatie. Deze kroontjes kunnen wel een beetje langer duren, reken op een tweetal weken.
+Op de site zie je welke kroontjes we op voorraad hebben. Eentje op voorraad kan je meteen ophalen (of laten leveren). Diegene die niet op voorraad zijn, hebben we op ongeveer één week voor je klaar. Had je nog iets heel anders in gedachte? Geen probleem! Nieuwe kroontjes maken, dat doen wij graag! Stuur een berichtje via onze sociale media en we bekijken samen het thema en kleurcombinatie. Deze kroontjes kunnen wel een beetje langer duren, reken op een tweetal weken.
 
-* Onze kroontjes komen standaard met één vast cijfer en ze kosten 20 euro.
-* Wil je graag eentje met verwisselbare cijfers, dan betaal je 2 euro extra per bijkomend cijfertje.
+* Onze kroontjes komen standaard met één vast cijfer en ze kosten **20 euro**.
+* Wil je graag eentje met verwisselbare cijfers, dan betaal je **2 euro extra per bijkomend cijfertje**.
 * Twijfel je? Alles is aanpasbaar. Ook de kroontjes met een vast cijfer kunnen we altijd nog aanpassen en wisselen. Gewoon even langskomen :)
 
-De kroontjes zijn vanachter verstelbaar met velcro. Lekker handig om hem op maat te zetten. De minimummaat is 42 cm, de maximummaat is 55 cm.
+De kroontjes zijn vanachter verstelbaar met velcro. Lekker handig om hem op maat te zetten. De minimummaat is 42 cm, de maximummaat is 55 cm. Ze zijn bovendien superzacht op het hoofdje en gaan niet snel stuk.
 
 
 

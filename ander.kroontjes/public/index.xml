@@ -2,44 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ander Kroontjes</title>
-    <link>https://example.org/</link>
+    <link>https://anderkroontjes.net/</link>
     <description>Recent content on Ander Kroontjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://anderkroontjes.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Groen kroontje met bloemetjes</title>
-      <link>https://example.org/portfolio/kroontje-1/</link>
+      <title>Grasgroen, hemelsblauw en bloemetjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-1-groen-bloemen/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/kroontje-1/</guid>
-      <description>something something</description>
+      <guid>https://anderkroontjes.net/portfolio/kroontje-1-groen-bloemen/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Op voorraad &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Groen kroontje met egel en meedere cijfers</title>
-      <link>https://example.org/portfolio/kroontje-4/</link>
+      <title>Lichtblauw met dino&#39;s</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-2-blauw-dino/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/kroontje-4/</guid>
+      <guid>https://anderkroontjes.net/portfolio/kroontje-2-blauw-dino/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Roos kroontje met bloemetjes</title>
-      <link>https://example.org/portfolio/kroontje-2/</link>
+      <title>Rood met tractors</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-3-rood-tractor/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/kroontje-2/</guid>
-      <description>slfslzlezlze slzlzlzeln slzlzl</description>
+      <guid>https://anderkroontjes.net/portfolio/kroontje-3-rood-tractor/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Roos kroontje met muisjes</title>
-      <link>https://example.org/portfolio/kroontje-3/</link>
+      <title>Oudroze met hertjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-4-oudroze-hertjes/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/kroontje-3/</guid>
+      <guid>https://anderkroontjes.net/portfolio/kroontje-4-oudroze-hertjes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Op voorraad &amp;ndash;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ndash; Verwisselbare cijfertjes &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fushia met hertjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-5-fushia-hertjes/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-5-fushia-hertjes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oudroze met muntgroen</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-6-roze-ijsjes/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-6-roze-ijsjes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felblauw Paw Patrol</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-7-paw-patrol/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-7-paw-patrol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oudroze met muisjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-8-roos-muisjes/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-8-roos-muisjes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Op voorraad &amp;ndash;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ndash; Verwisselbare cijfertjes &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lichtblauw met roze unicorns</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-9-lichtblauw-unicorns/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-9-lichtblauw-unicorns/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Glow in the dark &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zandkleurig met groen bloemetjespatroon</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-10-okergeel/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-10-okergeel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paars met bloemetjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-11-paars/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-11-paars/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Op voorraad &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Donkergroen met egeltjes</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-12-egeltjes/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-12-egeltjes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Verwisselbare cijfertjes &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Je eigen creatie</title>
+      <link>https://anderkroontjes.net/portfolio/kroontje-uniek/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://anderkroontjes.net/portfolio/kroontje-uniek/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-1-groen-bloemen/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-2-blauw-dino/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-3-rood-tractor/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-4-oudroze-hertjes/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-5-fushia-hertjes/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-6-roze-ijsjes/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-7-paw-patrol/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-8-roos-muisjes/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-9-lichtblauw-unicorns/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-10-okergeel/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-11-paars/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-12-egeltjes/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/kroontje-uniek/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://anderkroontjes.net/opmaat/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/kroontje-1/</loc>
+    <loc>https://anderkroontjes.net/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://anderkroontjes.net/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/kroontje-4/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://anderkroontjes.net/categories/</loc>
   </url><url>
-    <loc>https://example.org/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url><url>
-    <loc>https://example.org/portfolio/kroontje-2/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url><url>
-    <loc>https://example.org/portfolio/kroontje-3/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://anderkroontjes.net/tags/</loc>
   </url>
 </urlset>
