@@ -41,10 +41,25 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Kroontjes"
+  name = "Ander kroontjes"
   url = "portfolio/"
   home = true
 
+   [[params.navlinks]]
+  name = "Thema Auto"
+  url = "autos/" 
+
+  [[params.navlinks]]
+  name = "Glow in the dark"
+  url = "glow_in_the_dark/" 
+
+   [[params.navlinks]]
+  name = "Soft line"
+  url = "soft_line/"  
+
+  [[params.navlinks]]
+  name = "Stel zelf samen"
+  url = "stelzelfsamen/"
 
   [[params.navlinks]]
   name = "Info"
