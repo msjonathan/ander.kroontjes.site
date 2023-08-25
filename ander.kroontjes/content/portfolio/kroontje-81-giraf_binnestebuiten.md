@@ -11,9 +11,11 @@ weight = 81
 ![Kroontje girafjes][1]
 ![Kroontje girafjes foto 2][2]
 
-Als je een patroontje veel te leuk vindt, dan zit er niets anders op dan deze langs de buitenkant te dragen :). Al onze kroontjes kan je zo dragen, wij moeten enkel weten waar het cijfertje komt te staan ;)
+Wat doe je als je het patroontje veel te leuk vindt? Dan draag je die toch aan de buitenkant zeker?
 
-Andere cijfertjes zijn perfect mogelijk.
+Eigenlijk is dit kroontje identiek aan al onze andere kroontjes. Je kan dus elk kroontje omkeren zoals je wil. Wat we hier wel anders hebben gedaan, is het cijfertje langs de kant van het patroon gezet.
+
+Zo kan je het eens afwisselen :)
 
 [1]: /img/portfolio/giraf_binnenstebuiten.jpg
 [2]: /img/portfolio/alternatieven/giraf_binnenstebuiten1.jpg

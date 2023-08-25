@@ -27,7 +27,7 @@ De kroontjes zijn vanachter verstelbaar met velcro. Lekker handig om hem op maat
 #### Bestellen maar! 🥳
 
 Stuur een berichtje via onze sociale media of mail.
-Ophalen te Olen of Morkhoven.
+Ophalen te Olen of Herentals.
 Verzenden mogelijk vanaf € 3,78
 
 ![Kroontje logo][1]
