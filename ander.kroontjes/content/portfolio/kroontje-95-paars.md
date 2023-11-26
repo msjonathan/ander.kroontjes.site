@@ -3,17 +3,19 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/paars.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Paars met bloemetjes"
+title = "Bordeaux met bloemetjes"
 weight = 95
 +++
 *-- Op voorraad --*
 <!--more-->
-![Kroontje paars][1]
+![Kroontje bordeaux][1]
+![Kroontje bordeaux met versiering][2]
 
-Dit kroontje heeft een paarse buitenkant en bloemetjes aan de binnenkant.
+Dit kroontje heeft een bordeaux buitenkant en de binnenkant is lila met een verzameling bloemetjes van bordeaux en blauw.
 
 Andere cijfertjes zijn perfect mogelijk.
 
-[1]: /img/portfolio/paars.jpg
+[1]: /img/portfolio/bordeaux_bloemen_paars.jpg
+[2]: /img/portfolio/alternatieven/paars.jpg
 
 
