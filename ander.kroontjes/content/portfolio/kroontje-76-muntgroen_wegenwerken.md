@@ -10,7 +10,7 @@ weight = 76
 <!--more-->
 ![Kroontje muntgroen wegenwerken][1]
 ![Kroontje muntgroen met wegenwerken 2][2]
-![Kroontje blauw met zeemeerminnen 3][3]
+
 
 Dit kroontje heeft een muntgroene buitenkant met een witte binnenkant met verschillende wegenwerken.
 
