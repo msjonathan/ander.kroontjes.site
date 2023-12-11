@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Bloemetjes roze"
 weight = 82
 +++
+Bijpassende kleuren: zachtblauw, lavendel, lila, paars, euchalyptus, pistachegroen, geelgroen, olijfgroen, groengrijs, goudbruin, mosterdgeel, maisgeel
 *-- Op voorraad --*
 <!--more-->
 ![Kroontje bloemetjes roze][1]

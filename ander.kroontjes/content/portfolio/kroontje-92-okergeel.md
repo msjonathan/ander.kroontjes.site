@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Zandkleurig met groen bloemetjespatroon"
 weight = 92
 +++
+Bijpassende kleuren: donkergroen, zand, goudbruin, maisgeel, mosterdgeel
 <!--more-->
 ![Kroontje zandkleurig][1]
 ![Kroontje zandkleurig met versiering][2]

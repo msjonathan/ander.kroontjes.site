@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Lichtblauw met dino's"
 weight = 90
 +++
+Bijpassende kleuren: petrolblauw, grijsgroen, lichtblauw, bruin, muntblauw
 <!--more-->
 ![Kroontje dino][1]
 

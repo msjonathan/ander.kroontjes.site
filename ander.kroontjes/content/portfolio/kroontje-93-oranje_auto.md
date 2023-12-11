@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Oranje met autootjes"
 weight = 93
 +++
+Bijpassende kleuren: oranje, pastelblauw, donkerblauw, bruin
 <!--more-->
 ![Kroontje oranje met autootjes][1]
 ![Kroontje oranje met jarige][2]

@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Rood met tractors"
 weight = 98
 +++
+Bijpassende kleuren: rood, oranje, grasgroen, lichtblauw
 <!--more-->
 ![Kroontje tractors][1]
 ![Kroontje tractors met versiering][2]

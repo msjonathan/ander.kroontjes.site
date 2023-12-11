@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Twinning is winning"
 weight = 80
 +++
+Bijpassende kleuren: fuchsia, felroze, lichtroze, pistachegroen
 *-- Op voorraad --*
 <!--more-->
 ![Kroontje twinning][1]

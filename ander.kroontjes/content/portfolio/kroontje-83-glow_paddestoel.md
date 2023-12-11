@@ -6,6 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Glow in the dark paddestoelen"
 weight = 83
 +++
+Bijpassende kleuren: Lichtblauw, pastelblauw, pastelgroen, muntgroen
 *-- Op voorraad --*
 <!--more-->
 ![Kroontje paddestoel glow in the dark][1]

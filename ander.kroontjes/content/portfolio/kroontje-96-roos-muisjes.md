@@ -3,9 +3,10 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/roos-met-muisjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Oudroze met muisjes"
+title = "Pastelroze met muisjes"
 weight = 96
 +++
+Bijpassende kleuren: pastelroze, grijs
 *-- Op voorraad --*
 
 *-- Verwisselbare cijfertjes --*
