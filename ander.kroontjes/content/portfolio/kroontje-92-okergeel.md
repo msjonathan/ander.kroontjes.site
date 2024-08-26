@@ -5,8 +5,11 @@ image = "img/portfolio/okergeel.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Zandkleurig met groen bloemetjespatroon"
 weight = 92
+kleuren = ['roze']
+geslachten = ['meisje']
+bijpassende_kleuren = ['donkergroen', 'zand', 'goudbruin', 'maisgeel', 'mosterdgeel']
+
 +++
-Bijpassende kleuren: donkergroen, zand, goudbruin, maisgeel, mosterdgeel
 <!--more-->
 ![Kroontje zandkleurig][1]
 ![Kroontje zandkleurig met versiering][2]

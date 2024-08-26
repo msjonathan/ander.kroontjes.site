@@ -5,8 +5,10 @@ image = "img/portfolio/paars.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Bordeaux met bloemetjes"
 weight = 95
+kleuren = ['paars']
+geslachten = ['meisje']
+bijpassende_kleuren = ['bordeaux', 'lila', 'donkerblauw', 'oudroze', 'lavendel', 'fuchsia']
 +++
-Bijpassende kleuren: Bordeaux, lila, donkerblauw, oudroze, lavendel, fuchsia
 *-- Op voorraad --*
 <!--more-->
 ![Kroontje bordeaux][1]

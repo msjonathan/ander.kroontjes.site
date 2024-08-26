@@ -5,8 +5,11 @@ image = "img/portfolio/blauw-paw-patrol.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Felblauw Paw Patrol"
 weight = 97
+kleuren = ['blauw']
+geslachten = ['jongen']
+patronen = ['paw patrol']
+bijpassende_kleuren = ['rood', 'geel', 'hemelsblauw', 'donkerblauw']
 +++
-Bijpassende kleuren: rood, geel, hemelsblauw, donkerblauw
 <!--more-->
 ![Kroontje paw patrol met versiering][1]
 ![Kroontje paw patrol][2]

@@ -5,6 +5,7 @@ image = "img/portfolio/fuchsia.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Fuchsia met hertjes"
 weight = 88
+geslachten = ['meisje']
 +++
 Bijpassende kleuren: Pastelroze, fuchsia, alle soorten roze, bruin
 <!--more-->

@@ -5,6 +5,7 @@ image = "img/portfolio/glow_in_the_dark_paddestoel.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Glow in the dark paddestoelen"
 weight = 83
+geslachten = ['jongen','meisje','unisex']
 +++
 Bijpassende kleuren: Lichtblauw, pastelblauw, pastelgroen, muntgroen
 *-- Op voorraad --*

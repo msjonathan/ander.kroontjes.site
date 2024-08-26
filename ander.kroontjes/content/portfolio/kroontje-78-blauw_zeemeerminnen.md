@@ -5,6 +5,7 @@ image = "img/portfolio/blauw_zeemeerminnen.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Blauw zeemeerminnen"
 weight = 78
+geslachten = ['meisje']
 +++
 *-- Op voorraad --*
 

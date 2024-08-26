@@ -5,6 +5,7 @@ image = "img/portfolio/fluo_oranje_gitaar2.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Fluo oranje met gitaren"
 weight = 85
+geslachten = ['jongen']
 +++
 Bijpassende kleuren: Fluo oranje, donkerblauw, goudbruin
 *-- Op voorraad --*

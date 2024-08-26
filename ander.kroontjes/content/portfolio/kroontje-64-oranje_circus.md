@@ -5,6 +5,7 @@ image = "img/portfolio/oranje_circus.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Oranje circus"
 weight = 64
+geslachten = ['jongen','meisje','unisex']
 +++
 
 <!--more-->

@@ -5,6 +5,7 @@ image = "img/portfolio/blauw_zeedieren.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Blauw zeedieren"
 weight = 63
+geslachten = ['jongen','meisje','unisex']
 +++
 *-- Op voorraad --*
 

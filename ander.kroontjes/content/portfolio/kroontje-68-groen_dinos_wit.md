@@ -5,6 +5,7 @@ image = "img/portfolio/groen_dinos.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Groen dino's"
 weight = 68
+geslachten = ['jongen']
 +++
 *-- Op voorraad --*
 

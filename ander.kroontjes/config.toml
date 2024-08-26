@@ -56,3 +56,12 @@ googleAnalytics = ""
   instagram     = "https://www.instagram.com/ander.kroontjes/"
   email         = "anvh@hotmail.com"
   whatsapp      = "https://wa.me/32475546714"
+
+
+
+
+[taxonomies]
+  tag = 'tags'
+  kleur = 'kleuren'
+  geslacht = 'geslachten'
+  patroon = 'patronen'

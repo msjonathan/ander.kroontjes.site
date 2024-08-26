@@ -5,6 +5,7 @@ image = "img/portfolio/groen_bosdieren.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Donkergroen bosdieren"
 weight = 70
+geslachten = ['jongen','meisje','unisex']
 +++
 *-- Op voorraad --*
 

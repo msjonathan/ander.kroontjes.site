@@ -5,6 +5,7 @@ image = "img/portfolio/blauw_vliegtuigjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Blauw vliegtuigen"
 weight = 71
+geslachten = ['jongen']
 +++
 *-- Op voorraad --*
 

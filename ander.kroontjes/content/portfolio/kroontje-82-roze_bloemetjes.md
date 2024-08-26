@@ -5,6 +5,7 @@ image = "img/portfolio/kroontje_bloemetjes_roze.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Bloemetjes roze"
 weight = 82
+geslachten = ['meisje']
 +++
 Bijpassende kleuren: zachtblauw, lavendel, lila, paars, euchalyptus, pistachegroen, geelgroen, olijfgroen, groengrijs, goudbruin, mosterdgeel, maisgeel
 *-- Op voorraad --*

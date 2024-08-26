@@ -5,11 +5,11 @@ image = "img/portfolio/roos-met-hertjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Pastelroze met hertjes"
 weight = 91
+geslachten = ['meisje']
+bijpassende_kleuren = ['pastelroze', 'fuchsia', 'bruin', 'roze']
 +++
-Bijpassende kleuren: Pastelroze, fuchsia, alle soorten roze, bruin
 *-- Op voorraad --*
 
-*-- Verwisselbare cijfertjes --*
 <!--more-->
 ![Kroontje hertjes][1]
 

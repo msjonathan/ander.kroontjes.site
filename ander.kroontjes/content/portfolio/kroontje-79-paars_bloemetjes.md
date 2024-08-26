@@ -5,6 +5,7 @@ image = "img/portfolio/paars_bloemetjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Paars met bloemetjes"
 weight = 79
+geslachten = ['meisje']
 +++
 Bijpassende kleuren: zachtblauw, lavendel, lila, paars, euchalyptus, pistachegroen, geelgroen, olijfgroen, groengrijs, goudbruin, mosterdgeel, maisgeel
 *-- Glittercijfers --*

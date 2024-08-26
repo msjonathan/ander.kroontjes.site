@@ -5,6 +5,7 @@ image = "img/portfolio/fushia_en_roze.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Twinning is winning"
 weight = 80
+geslachten = ['meisje']
 +++
 Bijpassende kleuren: fuchsia, felroze, lichtroze, pistachegroen
 *-- Op voorraad --*

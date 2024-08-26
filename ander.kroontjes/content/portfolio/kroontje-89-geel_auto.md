@@ -5,6 +5,7 @@ image = "img/portfolio/geel_auto.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Geel met autootjes"
 weight = 89
+geslachten = ['jongen']
 +++
 Bijpassende kleuren: Blauw, zachtgeel, felgeel, bruin
 <!--more-->

@@ -5,6 +5,7 @@ image = "img/portfolio/muntgroen_wegenwerken_kindje.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Muntgroen wegenwerken"
 weight = 76
+geslachten = ['jongen']
 +++
 
 <!--more-->
