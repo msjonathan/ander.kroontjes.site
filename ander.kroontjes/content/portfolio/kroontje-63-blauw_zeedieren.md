@@ -7,7 +7,6 @@ title = "Orca's blauw"
 weight = 63
 geslachten = ['jongen','meisje','unisex']
 +++
-*-- Op voorraad --*
 
 <!--more-->
 ![Kroontje blauw met zeedieren][1]

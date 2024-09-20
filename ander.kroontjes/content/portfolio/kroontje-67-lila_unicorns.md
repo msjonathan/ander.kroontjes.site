@@ -7,7 +7,6 @@ title = "Unicorns"
 weight = 67
 geslachten = ['meisje']
 +++
-*-- Op voorraad --*
 
 *-- Glow in the dark --*
 <!--more-->

@@ -8,7 +8,6 @@ weight = 82
 geslachten = ['meisje']
 bijpassende_kleuren = ['zachtblauw', 'lavendel', 'lila', 'paars','euchalyptus', 'pistachegroen', 'geelgroen', 'olijfgroen','groengrijs', 'goudbruin', 'mosterdgeel', 'maisgeel']
 +++
-*-- Op voorraad --*
 <!--more-->
 ![Kroontje bloemetjes roze][1]
 ![Kroontje bloemetjes roze binnenkant][2]

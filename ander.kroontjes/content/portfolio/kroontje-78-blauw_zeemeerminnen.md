@@ -7,7 +7,6 @@ title = "Blauw zeemeerminnen"
 weight = 78
 geslachten = ['meisje']
 +++
-*-- Op voorraad --*
 
 *-- Glittercijfers --*
 <!--more-->

@@ -7,7 +7,6 @@ title = "Blauw vliegtuigen"
 weight = 71
 geslachten = ['jongen']
 +++
-*-- Op voorraad --*
 
 <!--more-->
 ![Kroontje blauw met vliegtuigjes][1]
