@@ -14,9 +14,7 @@ bijpassende_kleuren = ['rood', 'oranje', 'grasgroen', 'lichtblauw']
 ![Kroontje tractors][1]
 ![Kroontje tractors met versiering][2]
 
-Dit kroontje heeft een rode buitenkant met tractors vanbinnen
-
-Andere cijfertjes zijn perfect mogelijk.
+Dit kroontje heeft een rode buitenkant met tractors vanbinnen.
 
 
 [1]: /img/portfolio/rood-tractor.jpg

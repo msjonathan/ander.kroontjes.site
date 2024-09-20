@@ -15,7 +15,5 @@ bijpassende_kleuren = ['pastelroze', 'fuchsia', 'bruin', 'roze']
 
 Dit kroontje heeft een pastelroze buitenkant en hertjes langs de binnenkant.
 
-Met verwisselbaar cijfertje 2. Andere cijfertjes zijn perfect mogelijk.
-
 
 [1]: /img/portfolio/roos-met-hertjes.jpg

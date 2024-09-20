@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/groen_treintjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Groen treintjes"
+title = "Treintjes"
 weight = 65
 geslachten = ['jongen']
 +++

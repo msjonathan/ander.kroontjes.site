@@ -17,7 +17,6 @@ bijpassende_kleuren = ['donkergroen', 'zand', 'goudbruin', 'maisgeel', 'mosterdg
 
 Dit kroontje heeft een zandkleurige buitenkant met groene bloemetjes aan de binnenkant. Voor het cijfertje hebben we een cirkeltje en een bloemetje gemaakt.
 
-Andere cijfertjes zijn perfect mogelijk.
 
 [1]: /img/portfolio/okergeel.jpg
 [2]: /img/portfolio/alternatieven/oker_versiering.jpg

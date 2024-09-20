@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/koraal_zee.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Koraal zeediertjes"
+title = "Koraaldiertjes"
 weight = 66
 geslachten = ['jongen','meisje','unisex']
 +++

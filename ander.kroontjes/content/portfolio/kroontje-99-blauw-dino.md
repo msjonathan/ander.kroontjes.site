@@ -19,8 +19,6 @@ bijpassende_kleuren = ['petrolblauw', 'grijsgroen', 'lichtblauw', 'bruin', 'munt
 
 Dit kroontje heeft een lichtblauwe buitenkant met schattige dino's vanbinnen.
 
-Andere cijfertjes zijn perfect mogelijk.
-
 
 [1]: /img/portfolio/blauw-dino.jpg
 [2]: /img/portfolio/alternatieven/blauw_dino_voorbeeld.jpg

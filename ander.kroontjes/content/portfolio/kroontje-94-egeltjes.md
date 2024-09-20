@@ -17,8 +17,6 @@ geslachten = ['jongen','meisje','unisex']
 
 Dit kroontje heeft een donkergroene buitenkant en roestkleurige binnenkant met egelmotief. In dit voorbeeld zijn er drie verwisselbare cijfertjes bij.
 
-Met vast cijfer is perfect mogelijk.
-
 [1]: /img/portfolio/groen-kroontje-met-egel-meerdere-cijfers.jpg
 [2]: /img/portfolio/alternatieven/egeltjes_alles.jpg
 [3]: /img/portfolio/alternatieven/egeltjes_enkel.jpg

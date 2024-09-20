@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/oranje_circus.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Oranje circus"
+title = "Circus oranje"
 weight = 64
 geslachten = ['jongen','meisje','unisex']
 +++

@@ -16,8 +16,6 @@ bijpassende_kleuren = ['bordeaux', 'lila', 'donkerblauw', 'oudroze', 'lavendel',
 
 Dit kroontje heeft een bordeaux buitenkant en de binnenkant is lila met een verzameling bloemetjes van bordeaux en blauw.
 
-Andere cijfertjes zijn perfect mogelijk.
-
 [1]: /img/portfolio/bordeaux_bloemen_paars.jpg
 [2]: /img/portfolio/alternatieven/paars.jpg
 

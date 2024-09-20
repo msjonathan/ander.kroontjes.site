@@ -12,9 +12,7 @@ geslachten = ['meisje']
 ![Kroontje groen met versiering][1]
 ![Kroontje groen][2]
 
-Dit kroontje heeft een grasgroene buitenkant, een bloemenpatroontje aan de binnenkant, en een bloemetje met daarin cijfer 1
-
-Andere cijfertjes zijn perfect mogelijk.
+Dit kroontje heeft een grasgroene buitenkant, een bloemenpatroontje aan de binnenkant, en een bloemetje met daarin cijfer 1.
 
 
 [1]: /img/portfolio/groen-bloemetjes.jpg

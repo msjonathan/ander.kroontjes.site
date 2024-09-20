@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Twinning is winning"
 weight = 80
 geslachten = ['meisje']
+bijpassende_kleuren = ['fuchsia', 'felroze', 'lichtroze', 'pistachegroen']
 +++
-Bijpassende kleuren: fuchsia, felroze, lichtroze, pistachegroen
 *-- Op voorraad --*
 <!--more-->
 ![Kroontje twinning][1]
@@ -16,7 +16,7 @@ Bijpassende kleuren: fuchsia, felroze, lichtroze, pistachegroen
 
 Twee originele, unieke kronen en die toch op elkaar lijken. Ideaal voor de verjaardag van een tweeling.
 
-Ook afzonderlijk te verkrijgen
+Uiteraard ook afzonderlijk te verkrijgen
 
 [1]: /img/portfolio/fushia_en_roze.jpg
 [2]: /img/portfolio/fushia_en_mintgroen.jpg

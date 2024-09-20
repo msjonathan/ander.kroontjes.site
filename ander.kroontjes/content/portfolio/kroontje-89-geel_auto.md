@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Geel met autootjes"
 weight = 89
 geslachten = ['jongen']
+bijpassende_kleuren = ['blauw', 'zachtgeel', 'felgeel', 'bruin']
 +++
-Bijpassende kleuren: Blauw, zachtgeel, felgeel, bruin
 <!--more-->
 ![Kroontje geel][1]
 ![Kroontje geel met versiering][2]
@@ -15,7 +15,6 @@ Bijpassende kleuren: Blauw, zachtgeel, felgeel, bruin
 
 Dit kroontje heeft een gele buitenkant met leuke autootjes aan de binnenkant. Voor het cijfertje hebben we een cirkeltje en een wielpatroon gemaakt.
 
-Andere cijfertjes zijn perfect mogelijk.
 
 [1]: /img/portfolio/geel_auto.jpg
 [2]: /img/portfolio/alternatieven/geel_auto_met.jpg

@@ -15,7 +15,5 @@ bijpassende_kleuren = ['pastelroze', 'grijs']
 ![Kroontje muisjes][1]
 Dit kroontje heeft een oudroze buitenkant met muisjes op een witte achtergrond aan de binnenkant.
 
-Andere cijfertjes zijn perfect mogelijk.
-
 [1]: /img/portfolio/roos-met-muisjes.jpg
 

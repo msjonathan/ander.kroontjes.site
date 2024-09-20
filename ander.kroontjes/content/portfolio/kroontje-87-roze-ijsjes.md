@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Oudroze met muntgroen"
 weight = 87
 geslachten = ['jongen','meisje','unisex']
+bijpassende_kleuren = ['pastelroze', 'pastelgroen', 'kersrood']
 +++
-Bijpassende kleuren: Pastelroze, pastelgroen, kersrood
 <!--more-->
 ![Kroontje ijsjes][1]
 ![Kroontje ijsjes met jarige][2]

@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/blauw_zeedieren.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Blauw zeedieren"
+title = "Orca's blauw"
 weight = 63
 geslachten = ['jongen','meisje','unisex']
 +++

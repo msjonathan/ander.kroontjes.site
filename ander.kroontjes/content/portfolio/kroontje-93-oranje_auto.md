@@ -15,7 +15,6 @@ bijpassende_kleuren = ['oranje', 'pastelblauw', 'donkerblauw', 'bruin']
 
 Dit kroontje heeft een oranje buitenkant met autootjes aan de binnenkant. De jarige op de foto is grote fan van auto's en was dus heel blij met zijn kroontje.
 
-Andere cijfertjes zijn perfect mogelijk.
 
 [1]: /img/portfolio/oranje_auto.jpg
 [2]: /img/portfolio/alternatieven/oranje_auto_sigge.jpg

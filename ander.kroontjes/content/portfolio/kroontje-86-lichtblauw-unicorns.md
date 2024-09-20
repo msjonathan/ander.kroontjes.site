@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Lichtblauw met roze unicorns"
 weight = 86
 geslachten = ['meisje']
+bijpassende_kleuren = ['oudroze', 'lichtblauw', 'bruin', 'lichtroze','roomwit']
 +++
-Bijpassende kleuren: Oudroze, lichtblauw, bruin, lichtroze, roomwit
 *-- Glow in the dark --*
 <!--more-->
 ![Kroontje unicorns][1]

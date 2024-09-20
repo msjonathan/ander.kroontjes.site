@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/lila_unicorns.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Lila unicorns"
+title = "Unicorns"
 weight = 67
 geslachten = ['meisje']
 +++

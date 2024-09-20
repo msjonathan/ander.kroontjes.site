@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Girafjes langs de buitenkant"
 weight = 81
 geslachten = ['jongen','meisje','unisex']
+bijpassende_kleuren = ['geel', 'maisgeel', 'bruin', 'roodbruin']
 +++
-Bijpassende kleuren: geel, maisgeel, bruin, roodbruin
 <!--more-->
 ![Kroontje girafjes][1]
 ![Kroontje girafjes foto 2][2]

@@ -6,8 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Fuchsia met hertjes"
 weight = 88
 geslachten = ['meisje']
+bijpassende_kleuren = ['pastelroze', 'fuchsia', 'roze', 'bruin']
 +++
-Bijpassende kleuren: Pastelroze, fuchsia, alle soorten roze, bruin
 <!--more-->
 ![Kroontje fuchsia met versiering][2]
 ![Kroontje fuchsia][1]
