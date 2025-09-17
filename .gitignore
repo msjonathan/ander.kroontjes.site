@@ -1,0 +1,14 @@
+### Hugo ###
+# Generated files by hugo
+/ander.kroontjes/public/
+/ander.kroontjes/resources/_gen/
+/ander.kroontjes/assets/jsconfig.json
+/ander.kroontjes/hugo_stats.json
+
+# Executable may be added to repository
+/ander.kroontjes/hugo.exe
+/ander.kroontjes/hugo.darwin
+/ander.kroontjes/hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
