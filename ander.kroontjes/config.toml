@@ -58,8 +58,6 @@ googleAnalytics = ""
   whatsapp      = "https://wa.me/32475546714"
 
 
-
-
 [taxonomies]
   tag = 'tags'
   kleur = 'kleuren'
