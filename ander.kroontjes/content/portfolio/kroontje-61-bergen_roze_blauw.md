@@ -15,7 +15,8 @@ geslachten = ['jongen','meisje','unisex']
 ![Kroontje bergen roze blauw][3]
 
 
-Dit kroontje heeft langs de binnenkant een bergjespatroon in roze en blauw/turquoise. Langs de buitenkant past een roze of blauw (of eventueel turquoise) vilt. Heel mooi met cijfertjes in hetzelfde kleurenschema.
+
+Dit kroontje heeft langs de binnenkant een bergjespatroon in roze en blauw/turquoise. Langs de buitenkant past een roze of blauw (of eventueel turquoise) vilt. Heel mooi met cijfertjes in hetzelfde kleurenschema. Test
 
 [1]: /img/portfolio/bergen_roze_blauw.jpg
 [2]: /img/portfolio/alternatieven/bergen/bergen_roze_blauw2.jpg
