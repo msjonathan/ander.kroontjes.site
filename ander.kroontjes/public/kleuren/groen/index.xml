@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Groen on Ander Kroontjes</title>
+    <link>http://localhost:56425/kleuren/groen/</link>
+    <description>Recent content in Groen on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/kleuren/groen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Donkergroen met egeltjes</title>
+      <link>http://localhost:56425/portfolio/kroontje-94-egeltjes/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-94-egeltjes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

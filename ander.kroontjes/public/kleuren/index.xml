@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kleuren on Ander Kroontjes</title>
+    <link>http://localhost:56425/kleuren/</link>
+    <description>Recent content in Kleuren on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/kleuren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blauw</title>
+      <link>http://localhost:56425/kleuren/blauw/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/blauw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groen</title>
+      <link>http://localhost:56425/kleuren/groen/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/groen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oranje</title>
+      <link>http://localhost:56425/kleuren/oranje/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/oranje/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paars</title>
+      <link>http://localhost:56425/kleuren/paars/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/paars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rood</title>
+      <link>http://localhost:56425/kleuren/rood/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/rood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roze</title>
+      <link>http://localhost:56425/kleuren/roze/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/roze/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wit</title>
+      <link>http://localhost:56425/kleuren/wit/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/kleuren/wit/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

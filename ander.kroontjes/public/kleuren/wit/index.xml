@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wit on Ander Kroontjes</title>
+    <link>http://localhost:56425/kleuren/wit/</link>
+    <description>Recent content in Wit on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/kleuren/wit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oranje met autootjes</title>
+      <link>http://localhost:56425/portfolio/kroontje-93-oranje_auto/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-93-oranje_auto/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinos on Ander Kroontjes</title>
+    <link>http://localhost:56425/patronen/dinos/</link>
+    <description>Recent content in Dinos on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/patronen/dinos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lichtblauw met dino&#39;s</title>
+      <link>http://localhost:56425/portfolio/kroontje-99-blauw-dino/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-99-blauw-dino/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

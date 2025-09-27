@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paw Patrol on Ander Kroontjes</title>
+    <link>http://localhost:56425/patronen/paw-patrol/</link>
+    <description>Recent content in Paw Patrol on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/patronen/paw-patrol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Felblauw Paw Patrol</title>
+      <link>http://localhost:56425/portfolio/kroontje-97-paw-patrol/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-97-paw-patrol/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

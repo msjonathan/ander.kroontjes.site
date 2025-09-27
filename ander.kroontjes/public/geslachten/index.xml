@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geslachten on Ander Kroontjes</title>
+    <link>http://localhost:56425/geslachten/</link>
+    <description>Recent content in Geslachten on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/geslachten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jongen</title>
+      <link>http://localhost:56425/geslachten/jongen/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/geslachten/jongen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meisje</title>
+      <link>http://localhost:56425/geslachten/meisje/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/geslachten/meisje/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unisex</title>
+      <link>http://localhost:56425/geslachten/unisex/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/geslachten/unisex/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
