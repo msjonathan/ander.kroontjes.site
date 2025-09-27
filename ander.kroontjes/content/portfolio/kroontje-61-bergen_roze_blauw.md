@@ -7,7 +7,6 @@ title = "Bergen roze/blauw"
 weight = 62
 geslachten = ['jongen','meisje','unisex']
 +++
-*-- Op voorraad --*
 
 <!--more-->
 ![Kroontje bergen roze blauw][1]

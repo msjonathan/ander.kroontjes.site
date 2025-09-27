@@ -7,7 +7,6 @@ title = "Streepjes"
 weight = 62
 geslachten = ['jongen','meisje','unisex']
 +++
-*-- Op voorraad --*
 
 <!--more-->
 ![Kroontje baksteenrood streepjes][1]
