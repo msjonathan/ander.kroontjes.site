@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voorbeeldmap_autos on Ander Kroontjes</title>
+    <link>http://localhost:56425/voorbeeldmap_autos/</link>
+    <description>Recent content in Voorbeeldmap_autos on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/voorbeeldmap_autos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rood met tractors</title>
+      <link>http://localhost:56425/voorbeeldmap_autos/kroontje-3-rood-tractor/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_autos/kroontje-3-rood-tractor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Felblauw Paw Patrol</title>
+      <link>http://localhost:56425/voorbeeldmap_autos/kroontje-7-paw-patrol/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_autos/kroontje-7-paw-patrol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geel met autootjes</title>
+      <link>http://localhost:56425/voorbeeldmap_autos/kroontje-13-geel_auto/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_autos/kroontje-13-geel_auto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oranje met autootjes</title>
+      <link>http://localhost:56425/voorbeeldmap_autos/kroontje-14-oranje_auto/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_autos/kroontje-14-oranje_auto/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

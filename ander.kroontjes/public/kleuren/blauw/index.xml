@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blauw on Ander Kroontjes</title>
+    <link>http://localhost:56425/kleuren/blauw/</link>
+    <description>Recent content in Blauw on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/kleuren/blauw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lichtblauw met dino&#39;s</title>
+      <link>http://localhost:56425/portfolio/kroontje-99-blauw-dino/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-99-blauw-dino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Felblauw Paw Patrol</title>
+      <link>http://localhost:56425/portfolio/kroontje-97-paw-patrol/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-97-paw-patrol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rood met tractors</title>
+      <link>http://localhost:56425/portfolio/kroontje-98-rood-tractor/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-98-rood-tractor/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

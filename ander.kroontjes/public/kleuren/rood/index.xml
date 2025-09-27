@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rood on Ander Kroontjes</title>
+    <link>http://localhost:56425/kleuren/rood/</link>
+    <description>Recent content in Rood on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/kleuren/rood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rood met tractors</title>
+      <link>http://localhost:56425/portfolio/kroontje-98-rood-tractor/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/portfolio/kroontje-98-rood-tractor/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

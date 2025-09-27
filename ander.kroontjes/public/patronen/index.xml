@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patronen on Ander Kroontjes</title>
+    <link>http://localhost:56425/patronen/</link>
+    <description>Recent content in Patronen on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/patronen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dinos</title>
+      <link>http://localhost:56425/patronen/dinos/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/patronen/dinos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paw Patrol</title>
+      <link>http://localhost:56425/patronen/paw-patrol/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/patronen/paw-patrol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tractors</title>
+      <link>http://localhost:56425/patronen/tractors/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/patronen/tractors/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

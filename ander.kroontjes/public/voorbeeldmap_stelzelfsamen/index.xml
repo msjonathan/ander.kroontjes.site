@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voorbeeldmap_stelzelfsamen on Ander Kroontjes</title>
+    <link>http://localhost:56425/voorbeeldmap_stelzelfsamen/</link>
+    <description>Recent content in Voorbeeldmap_stelzelfsamen on Ander Kroontjes</description>
+    <generator>Hugo</generator>
+    <language>nl-be</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:56425/voorbeeldmap_stelzelfsamen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grasgroen, hemelsblauw en bloemetjes</title>
+      <link>http://localhost:56425/voorbeeldmap_stelzelfsamen/groen-bloemen/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_stelzelfsamen/groen-bloemen/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ndash; Op voorraad &amp;ndash;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lichtblauw met dino&#39;s</title>
+      <link>http://localhost:56425/voorbeeldmap_stelzelfsamen/blauw-dino/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_stelzelfsamen/blauw-dino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rood met tractors</title>
+      <link>http://localhost:56425/voorbeeldmap_stelzelfsamen/rood-tractor/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:56425/voorbeeldmap_stelzelfsamen/rood-tractor/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
