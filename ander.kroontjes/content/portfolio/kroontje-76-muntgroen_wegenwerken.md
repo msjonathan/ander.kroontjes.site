@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Muntgroen wegenwerken"
 weight = 76
 geslachten = ['jongen']
+kleuren = ['muntgroen', 'donkerblauw', 'rood']
+patronen = ['wegenwerken']
 +++
 
 <!--more-->

@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Bordeaux bloemen"
 weight = 72
 geslachten = ['meisje']
+kleuren = ['bordeaux', 'beige']
+patronen = ['bloemen']
 +++
 *-- Op voorraad --*
 

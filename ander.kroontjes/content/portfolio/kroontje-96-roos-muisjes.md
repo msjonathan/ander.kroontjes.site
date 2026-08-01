@@ -5,9 +5,10 @@ image = "img/portfolio/roos-met-muisjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Pastelroze met muisjes"
 weight = 96
-kleuren = ['roze']
 geslachten = ['jongen','meisje','unisex']
 bijpassende_kleuren = ['pastelroze', 'grijs']
+kleuren = ['oudroze', 'grijs', 'wit']
+patronen = ['muisjes']
 +++
 
 *-- Op voorraad --*

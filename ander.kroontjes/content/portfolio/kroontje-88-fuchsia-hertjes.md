@@ -7,6 +7,8 @@ title = "Fuchsia met hertjes"
 weight = 88
 geslachten = ['meisje']
 bijpassende_kleuren = ['pastelroze', 'fuchsia', 'roze', 'bruin']
+kleuren = ['fuchsia', 'bordeaux']
+patronen = ['hertjes']
 +++
 <!--more-->
 ![Kroontje fuchsia met versiering][2]

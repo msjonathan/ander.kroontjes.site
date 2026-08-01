@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Bloemen roze"
 weight = 59
 geslachten = ['meisje']
+kleuren = ['roze', 'beige', 'bruin']
+patronen = ['bloemen']
 +++
 
 <!--more-->

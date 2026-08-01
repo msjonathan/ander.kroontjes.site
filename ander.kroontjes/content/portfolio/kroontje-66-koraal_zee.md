@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Koraaldiertjes"
 weight = 66
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['oranje', 'donkerblauw', 'rood']
+patronen = ['zeedieren']
 +++
 *-- Op voorraad --*
 

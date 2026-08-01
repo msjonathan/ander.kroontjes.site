@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Dino's"
 weight = 68
 geslachten = ['jongen']
+kleuren = ['groen', 'wit', 'oranje']
+patronen = ['dinos']
 +++
 *-- Op voorraad --*
 

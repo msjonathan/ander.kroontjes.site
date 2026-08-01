@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Turquoise"
 weight = 54
 geslachten = ['meisje','jongen','unisex']
+kleuren = ['muntgroen', 'turquoise', 'paars']
+patronen = ['zeemeermin']
 +++
 
 <!--more-->

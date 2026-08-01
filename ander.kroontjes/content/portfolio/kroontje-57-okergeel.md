@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Okergeel"
 weight = 57
 geslachten = ['meisje','jongen','unisex']
+kleuren = ['mosterdgeel', 'blauw']
+patronen = ['geometrisch']
 +++
 
 <!--more-->

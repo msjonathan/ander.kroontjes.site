@@ -7,6 +7,8 @@ title = "Twinning is winning"
 weight = 80
 geslachten = ['meisje']
 bijpassende_kleuren = ['fuchsia', 'felroze', 'lichtroze', 'pistachegroen']
+kleuren = ['fuchsia', 'roze', 'muntgroen']
+patronen = ['bloemen']
 +++
 *-- Op voorraad --*
 <!--more-->

@@ -7,6 +7,8 @@ title = "Lichtblauw met roze unicorns"
 weight = 86
 geslachten = ['meisje']
 bijpassende_kleuren = ['oudroze', 'lichtblauw', 'bruin', 'lichtroze','roomwit']
+kleuren = ['lichtblauw', 'roze']
+patronen = ['unicorns']
 +++
 *-- Glow in the dark --*
 <!--more-->

@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Eucalyptus"
 weight = 74
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['muntgroen', 'petrolblauw']
+patronen = ['bloemen']
 +++
 *-- Op voorraad --*
 

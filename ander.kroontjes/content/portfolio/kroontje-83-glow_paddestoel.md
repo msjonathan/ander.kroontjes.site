@@ -7,6 +7,8 @@ title = "Glow in the dark paddestoelen"
 weight = 83
 geslachten = ['jongen','meisje','unisex']
 bijpassende_kleuren = ['lichtblauw', 'pastelblauw', 'pastelgroen', 'muntgroen']
+kleuren = ['lichtblauw', 'donkerblauw', 'lila']
+patronen = ['paddestoelen']
 +++
 *-- Op voorraad --*
 <!--more-->

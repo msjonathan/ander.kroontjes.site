@@ -7,6 +7,8 @@ title = "Bloemetjes roze"
 weight = 82
 geslachten = ['meisje']
 bijpassende_kleuren = ['zachtblauw', 'lavendel', 'lila', 'paars','euchalyptus', 'pistachegroen', 'geelgroen', 'olijfgroen','groengrijs', 'goudbruin', 'mosterdgeel', 'maisgeel']
+kleuren = ['roze', 'felroze', 'wit']
+patronen = ['bloemen']
 +++
 <!--more-->
 ![Kroontje bloemetjes roze][1]

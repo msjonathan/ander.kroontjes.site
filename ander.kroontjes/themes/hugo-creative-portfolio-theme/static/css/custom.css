@@ -1,0 +1,150 @@
+/* your styles go here */
+
+/* ---------------------------------------------------------------------------
+   Pills / tags — shared by the sidebar browse filter and the crown detail page
+   so they look identical everywhere.
+--------------------------------------------------------------------------- */
+.filter-pill {
+  display: inline-flex;
+  align-items: center;
+  margin: 3px 5px 3px 0;
+  padding: 4px 11px;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #ad1457;
+  background: #fce4ec;
+  border-radius: 14px;
+  text-decoration: none;
+  transition: background .15s ease, color .15s ease;
+}
+.filter-pill:hover,
+.filter-pill:focus,
+.filter-pill.is-active {
+  background: #e6497a;
+  color: #fff;
+  text-decoration: none;
+}
+.filter-pill .swatch {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  margin-right: 6px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .18);
+}
+
+/* ---------------------------------------------------------------------------
+   Sidebar browse filter
+--------------------------------------------------------------------------- */
+.sidebar-filter {
+  margin: 28px 0 10px;
+  text-align: left;
+}
+.sidebar-filter-heading {
+  margin: 0 0 10px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: #999;
+}
+.filter-reset {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #777;
+  text-decoration: none;
+}
+.filter-reset:hover,
+.filter-reset.is-active {
+  color: #e6497a;
+  text-decoration: none;
+}
+.filter-section {
+  border-top: 1px solid #eee;
+  padding: 9px 0;
+}
+.filter-section summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  list-style: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #444;
+}
+.filter-section summary::-webkit-details-marker { display: none; }
+.filter-section summary::after {
+  content: "\203A"; /* › */
+  font-size: 18px;
+  line-height: 1;
+  color: #bbb;
+  transition: transform .15s ease;
+}
+.filter-section[open] summary::after { transform: rotate(90deg); }
+.filter-section-count {
+  margin-left: auto;
+  margin-right: 10px;
+  font-size: 11px;
+  font-weight: 400;
+  color: #bbb;
+}
+.filter-pills {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+/* ---------------------------------------------------------------------------
+   Faceted-filter status bar (portfolio landing page)
+--------------------------------------------------------------------------- */
+.filter-status {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #888;
+}
+.filter-status-count strong { color: #555; }
+.filter-clear {
+  margin-left: 12px;
+  padding: 4px 12px;
+  border: none;
+  background: #fce4ec;
+  color: #ad1457;
+  font-size: 13px;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: background .15s ease, color .15s ease;
+}
+.filter-clear:hover,
+.filter-clear:focus { background: #e6497a; color: #fff; }
+.filter-empty {
+  margin: 24px 0;
+  color: #888;
+}
+.filter-empty a { color: #e6497a; }
+
+/* ---------------------------------------------------------------------------
+   Tags at the top of a crown detail page
+--------------------------------------------------------------------------- */
+.crown-tags {
+  margin: 6px 0 22px;
+}
+.crown-tag-group {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+.crown-tag-label {
+  display: inline-block;
+  min-width: 68px;
+  margin-right: 8px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #aaa;
+}

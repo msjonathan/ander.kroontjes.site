@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Roze unicorns met regenboogcijfer"
 weight = 73
 geslachten = ['meisje']
+kleuren = ['oudroze', 'donkerblauw', 'felroze']
+patronen = ['unicorns']
 +++
 *-- Regenboogcijfertje --*
 <!--more-->

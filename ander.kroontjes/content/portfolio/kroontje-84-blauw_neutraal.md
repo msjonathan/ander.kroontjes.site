@@ -7,6 +7,8 @@ title = "Blauw zandkleur"
 weight = 84
 geslachten = ['meisje']
 bijpassende_kleuren = ['aqua', 'zandkleur']
+kleuren = ['zand', 'blauw']
+patronen = ['bloemen']
 +++
 *-- Op voorraad --*
 <!--more-->

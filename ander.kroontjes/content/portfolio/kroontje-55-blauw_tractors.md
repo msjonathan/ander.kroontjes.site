@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Blauw tractors"
 weight = 55
 geslachten = ['jongen']
+kleuren = ['blauw', 'lichtblauw', 'rood', 'lichtgroen']
+patronen = ['tractors']
 +++
 
 <!--more-->

@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Blauw zeemeerminnen"
 weight = 78
 geslachten = ['meisje']
+kleuren = ['blauw', 'lila', 'roze']
+patronen = ['zeemeermin']
 +++
 
 *-- Glittercijfers --*

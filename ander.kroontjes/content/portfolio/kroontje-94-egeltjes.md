@@ -5,8 +5,9 @@ image = "img/portfolio/groen-kroontje-met-egel-meerdere-cijfers.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Donkergroen met egeltjes"
 weight = 94
-kleuren = ['oranje','groen']
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['donkergroen', 'bruin', 'lichtgroen']
+patronen = ['egeltjes']
 +++
 <!--more-->
 ![Kroontje egeltjes][1]
