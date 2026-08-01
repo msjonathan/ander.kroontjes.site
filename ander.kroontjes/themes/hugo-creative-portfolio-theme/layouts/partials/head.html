@@ -1,0 +1,62 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+{{/* Per-page SEO: unique title, description and Open Graph / Twitter tags */}}
+{{ $siteTitle := .Site.Title }}
+{{ $title := $siteTitle }}
+{{ if not .IsHome }}{{ $title = printf "%s – %s" .Title $siteTitle }}{{ end }}
+{{ $desc := .Site.Params.description }}
+{{ with .Description }}
+  {{ $desc = . }}
+{{ else }}
+  {{ $plain := trim (.Plain | replaceRE "\\s+" " ") " " }}
+  {{ if gt (len $plain) 20 }}{{ $desc = $plain }}{{ end }}
+{{ end }}
+{{ $desc = $desc | plainify | htmlUnescape | chomp | truncate 160 }}
+{{ $ogImage := "img/kroontjes_paars.jpg" }}
+{{ with .Params.image }}{{ $ogImage = . }}{{ end }}
+{{ $ogLocale := "nl_BE" }}
+{{ with .Site.LanguageCode }}
+  {{ $parts := split . "-" }}
+  {{ if eq (len $parts) 2 }}{{ $ogLocale = printf "%s_%s" (lower (index $parts 0)) (upper (index $parts 1)) }}{{ end }}
+{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<meta property="og:site_name" content="{{ $siteTitle }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $ogImage | absURL }}">
+<meta property="og:locale" content="{{ $ogLocale }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $ogImage | absURL }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
+<!-- Theme stylesheet, if possible do not edit this stylesheet -->
+{{ with .Site.Params.style }}
+  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
+{{ else }}
+  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+{{ end }}
+ <!-- Responsivity for older IE -->
+<!-- Just in case -->
+  {{ `
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  ` | safeHTML }}
+
+<!-- Custom stylesheet - for your changes -->
+<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
+<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+{{ with .OutputFormats.Get "RSS" }}
+  {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+{{ end }}
+{{ template "_internal/google_analytics.html" . }}

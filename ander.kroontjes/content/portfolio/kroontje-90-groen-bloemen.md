@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Grasgroen, hemelsblauw en bloemetjes"
 weight = 90
 geslachten = ['meisje']
+kleuren = ['groen', 'lichtblauw', 'rood']
+patronen = ['bloemen']
 +++
 *-- Op voorraad --*
 <!--more-->

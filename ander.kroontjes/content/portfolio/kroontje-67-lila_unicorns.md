@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Unicorns"
 weight = 67
 geslachten = ['meisje']
+kleuren = ['lila', 'turquoise', 'roze']
+patronen = ['unicorns']
 +++
 
 *-- Glow in the dark --*

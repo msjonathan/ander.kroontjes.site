@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Circus oranje"
 weight = 64
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['oranje', 'wit', 'zwart']
+patronen = ['circus']
 +++
 
 <!--more-->

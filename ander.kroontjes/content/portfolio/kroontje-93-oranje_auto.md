@@ -5,9 +5,10 @@ image = "img/portfolio/oranje_auto.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Oranje met autootjes"
 weight = 93
-kleuren = ['oranje','wit']
 geslachten = ['jongen']
 bijpassende_kleuren = ['oranje', 'pastelblauw', 'donkerblauw', 'bruin']
+kleuren = ['oranje', 'lichtblauw', 'wit']
+patronen = ['autos']
 +++
 <!--more-->
 ![Kroontje oranje met autootjes][1]

@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Blauw geometrisch patroon"
 weight = 75
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['lichtblauw', 'grijs', 'beige']
+patronen = ['geometrisch']
 +++
 *-- Op voorraad --*
 <!--more-->

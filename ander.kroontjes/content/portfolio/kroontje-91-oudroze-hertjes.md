@@ -7,6 +7,8 @@ title = "Pastelroze met hertjes"
 weight = 91
 geslachten = ['meisje']
 bijpassende_kleuren = ['pastelroze', 'fuchsia', 'bruin', 'roze']
+kleuren = ['oudroze', 'bordeaux']
+patronen = ['hertjes']
 +++
 *-- Op voorraad --*
 

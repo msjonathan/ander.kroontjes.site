@@ -7,6 +7,8 @@ title = "Fluo oranje met gitaren"
 weight = 85
 geslachten = ['jongen']
 bijpassende_kleuren = ['fluo oranje', 'donkerblauw', 'goudbruin']
+kleuren = ['oranje', 'grijs', 'zwart']
+patronen = ['gitaren']
 +++
 *-- Op voorraad --*
 <!--more-->

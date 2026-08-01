@@ -1,0 +1,26 @@
+{{/* Browse filter for the sidebar: collapsible taxonomy groups linking to term
+     pages. Colour terms show a swatch (colours from params.kleurcodes). */}}
+{{ $page := . }}
+{{ $groups := slice (slice "geslachten" "Voor wie" true) (slice "kleuren" "Kleur" false) (slice "patronen" "Patroon" false) }}
+<div class="sidebar-filter">
+  <h2 class="sidebar-filter-heading">Blader op</h2>
+  <a class="filter-reset{{ if eq $page.Kind "section" }} is-active{{ end }}" href="{{ "/portfolio/" | relURL }}">Alle kroontjes</a>
+  {{ range $groups }}
+    {{ $tax := index . 0 }}
+    {{ $label := index . 1 }}
+    {{ $open := index . 2 }}
+    {{ with $page.Site.GetPage (printf "/%s" $tax) }}
+      <details class="filter-section"{{ if $open }} open{{ end }}>
+        <summary>{{ $label }}<span class="filter-section-count">{{ len .Pages }}</span></summary>
+        <div class="filter-pills">
+          {{ range .Pages.ByTitle }}
+            <a class="filter-pill{{ if eq .Permalink $page.Permalink }} is-active{{ end }}" href="{{ .Permalink }}" data-tax="{{ $tax }}" data-term="{{ .LinkTitle | lower }}">
+              {{ if eq $tax "kleuren" }}<span class="swatch" style="background:{{ index $page.Site.Params.kleurcodes (.LinkTitle | lower) }}"></span>{{ end }}
+              <span class="filter-pill-label">{{ .LinkTitle }}</span>
+            </a>
+          {{ end }}
+        </div>
+      </details>
+    {{ end }}
+  {{ end }}
+</div>

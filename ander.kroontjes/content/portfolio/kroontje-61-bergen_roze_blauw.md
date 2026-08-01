@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Bergen roze/blauw"
 weight = 62
 geslachten = ['jongen','meisje','unisex']
+kleuren = ['oudroze', 'blauw', 'paars']
+patronen = ['geometrisch']
 +++
 
 <!--more-->

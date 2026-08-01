@@ -5,6 +5,8 @@ image = "img/portfolio/geel_madeliefjes.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Madeliefjes"
 weight = 69
+kleuren = ['geel', 'wit', 'zwart']
+patronen = ['madeliefjes']
 +++
 *-- Op voorraad --*
 

@@ -7,6 +7,8 @@ title = "Oudroze met muntgroen"
 weight = 87
 geslachten = ['jongen','meisje','unisex']
 bijpassende_kleuren = ['pastelroze', 'pastelgroen', 'kersrood']
+kleuren = ['oudroze', 'muntgroen']
+patronen = ['dieren']
 +++
 <!--more-->
 ![Kroontje ijsjes][1]

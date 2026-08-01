@@ -7,6 +7,8 @@ title = "Geel met autootjes"
 weight = 89
 geslachten = ['jongen']
 bijpassende_kleuren = ['blauw', 'zachtgeel', 'felgeel', 'bruin']
+kleuren = ['geel', 'grijs', 'zwart']
+patronen = ['autos']
 +++
 <!--more-->
 ![Kroontje geel][1]

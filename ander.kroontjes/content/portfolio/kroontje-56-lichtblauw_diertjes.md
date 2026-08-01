@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Lichtblauw diertjes"
 weight = 56
 geslachten = ['jongen']
+kleuren = ['lichtblauw', 'beige', 'olijfgroen', 'okergeel']
+patronen = ['dieren']
 +++
 
 <!--more-->

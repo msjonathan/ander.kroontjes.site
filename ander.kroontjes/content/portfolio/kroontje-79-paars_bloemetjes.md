@@ -7,6 +7,8 @@ title = "Paars met bloemetjes"
 weight = 79
 geslachten = ['meisje']
 bijpassende_kleuren = ['zachtblauw', 'lavendel', 'lila', 'paars','euchalyptus', 'pistachegroen', 'geelgroen', 'olijfgroen','groengrijs', 'goudbruin', 'mosterdgeel', 'maisgeel']
+kleuren = ['paars', 'roze', 'wit']
+patronen = ['bloemen']
 +++
 *-- Glittercijfers --*
 <!--more-->

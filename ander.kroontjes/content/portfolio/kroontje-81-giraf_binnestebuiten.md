@@ -7,6 +7,8 @@ title = "Girafjes langs de buitenkant"
 weight = 81
 geslachten = ['jongen','meisje','unisex']
 bijpassende_kleuren = ['geel', 'maisgeel', 'bruin', 'roodbruin']
+kleuren = ['geel', 'lichtblauw', 'bruin']
+patronen = ['girafjes']
 +++
 <!--more-->
 ![Kroontje girafjes][1]

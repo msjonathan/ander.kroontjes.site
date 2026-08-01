@@ -6,6 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Hartjes"
 weight = 53
 geslachten = ['meisje','jongen','unisex']
+kleuren = ['roze', 'goud', 'wit']
+patronen = ['hartjes']
 +++
 
 <!--more-->

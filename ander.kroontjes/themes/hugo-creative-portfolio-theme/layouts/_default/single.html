@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         {{ $page := . }}
+         {{ $groups := slice (slice "geslachten" "Voor wie") (slice "kleuren" "Kleur") (slice "patronen" "Patroon") }}
+         <div class="crown-tags">
+           {{ range $groups }}
+             {{ $tax := index . 0 }}
+             {{ $label := index . 1 }}
+             {{ with $page.GetTerms $tax }}
+               <div class="crown-tag-group">
+                 <span class="crown-tag-label">{{ $label }}</span>
+                 {{ range . }}<a class="filter-pill" href="{{ .Permalink }}">{{ if eq $tax "kleuren" }}<span class="swatch" style="background:{{ index $page.Site.Params.kleurcodes (.LinkTitle | lower) }}"></span>{{ end }}<span class="filter-pill-label">{{ .LinkTitle }}</span></a>{{ end }}
+               </div>
+             {{ end }}
+           {{ end }}
+         </div>
+         {{ .Content }}
+         {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
